@@ -2,12 +2,6 @@
 
 BookBot is a simple Python project that reads a text file, counts the number of words, and generates a character frequency report.
 
-## Project Structure
-.gitignore
-books/frankenstein.txt
-main.py
-README.md
-
 ## How to Run
 
 1. Make sure you have Python installed on your system.
